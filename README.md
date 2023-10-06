@@ -1,2 +1,2 @@
-# Minecraft-Mod-Airborne
+# Airborne
 A mod that add planes to Minecraft.
